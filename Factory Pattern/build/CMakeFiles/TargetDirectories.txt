@@ -1,0 +1,3 @@
+D:/Cmake/Design Patterns/build/CMakeFiles/Factory.dir
+D:/Cmake/Design Patterns/build/CMakeFiles/edit_cache.dir
+D:/Cmake/Design Patterns/build/CMakeFiles/rebuild_cache.dir
